@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a recent grad of the University of Chicago's MS in Computational Analysis and Public Policy and now work as a data scientist at the US Census Bureau. Prior to graduate school, I was a research assistant at the [UCSF Institute for Health Policy Studies](https://healthpolicy.ucsf.edu/philip-r-lee-institute-health-policy-studies) and worked on healthcare analytics for [The Chartis Group](https://www.chartis.com/).
+
+Outside of work, I have enjoyed mentoring youth with the [Center for Empowering Refugees and Immigrants (CERI)](https://www.cerieastbay.org/) and [Chinese Mutual Aid Association](https://www.chinesemutualaid.org/). I also look for opportunities to contribute to civic tech projects that I find interesting.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Send me an [email](mailto:chankrista@tutanota.com)!
